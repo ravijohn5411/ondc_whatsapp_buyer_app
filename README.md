@@ -15,7 +15,7 @@ This project serves as a showcase for integrating WhatsApp as a buyer applicatio
 
 ## Video Demo
 
-You can find a video demonstration of the project [here]([https://www.example.com/your-video-link](https://drive.google.com/file/d/1-G9jfO5gsXdDScB6PMis1HDBqEMeN5gd/view?usp=sharing)).
+You can find a video demonstration of the project [here](https://www.example.com/your-video-link](https://drive.google.com/file/d/1-G9jfO5gsXdDScB6PMis1HDBqEMeN5gd/view?usp=sharing).
 
 
 ## License
