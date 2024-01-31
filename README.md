@@ -6,7 +6,7 @@ WhatsApp as ONDC buyer app
 
 - [Introduction](#introduction)
 - [Video Demo](#video-demo)
-- [License](#license)
+
 
 ## Introduction
 
@@ -16,7 +16,3 @@ This project serves as a showcase for integrating WhatsApp as a buyer applicatio
 ## Video Demo
 
 For a visual demonstration of the features mentioned above, click [HERE](https://drive.google.com/file/d/1-G9jfO5gsXdDScB6PMis1HDBqEMeN5gd/view?usp=sharing).
-
-## License
-
-This project is licensed under the [ULAI](LICENSE) - see the [LICENSE](LICENSE) file for details.
